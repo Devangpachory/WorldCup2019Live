@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853379616840",
+    "firebase_url": "https://worldcup2019live-30ce9.firebaseio.com",
+    "project_id": "worldcup2019live-30ce9",
+    "storage_bucket": "worldcup2019live-30ce9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853379616840:android:50e9a659fe634e31",
+        "android_client_info": {
+          "package_name": "com.devangpachory.worldcup2019live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853379616840-2aajeolik3vfqbhmt28gu1lia8ghaime.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devangpachory.worldcup2019live",
+            "certificate_hash": "93c217237596bb42e6963351a8c49cb77c970693"
+          }
+        },
+        {
+          "client_id": "853379616840-hleka7haac22biledlh252n8kdedepac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JLTNvS0RA0bz9LiGLQ5TWJHmFLA_PwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853379616840-hleka7haac22biledlh252n8kdedepac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
